@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate **with other developers**
 
-- 🥅 2021 Goals: **Contribute more to Open Source projects**
+- 🥅 2022 Goals: **Contribute more to Open Source projects**
 
 - 📫 How to reach me **yashikasinghal0020@gmail.com**
 
