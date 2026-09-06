@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yashika Singhal</h1>
 <h3 align="center">A Girl trying to Figure-Out Stuff!!</h3>
 
-- 🌱 I’m currently learning **ReactJS, NodeJS**
+- 🌱 I’m currently working at **Accenture**
 
 - 👯 I’m looking to collaborate **with other developers**
 
-- 🥅 2022 Goals: **Contribute more to Open Source projects**
+- 🥅 2026 Goals: **Contribute more to Open Source projects**
 
 - 📫 How to reach me **yashikasinghal0020@gmail.com**
 
